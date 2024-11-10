@@ -1,2 +1,2 @@
-const iniciarCLI = require('./projeto/cli/menu');
+const iniciarCLI = require("./src/cli/menu");
 iniciarCLI();
